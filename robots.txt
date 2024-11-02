@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lin-meili.github.io/test-pub/sitemap.xml

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My first website test",
+    "description": "",
+    "home_page_url": "https://lin-meili.github.io/test-pub",
+    "feed_url": "https://lin-meili.github.io/test-pub/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "C-U-Der"
+    },
+    "items": [
+        {
+            "id": "https://lin-meili.github.io/test-pub/this-is-my-first-post.html",
+            "url": "https://lin-meili.github.io/test-pub/this-is-my-first-post.html",
+            "title": "This is my first post!",
+            "summary": "Hello, world!",
+            "content_html": "<p>Hello, world!</p>",
+            "author": {
+                "name": "C-U-Der"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-02T13:37:47+08:00",
+            "date_modified": "2024-11-02T13:37:47+08:00"
+        }
+    ]
+}

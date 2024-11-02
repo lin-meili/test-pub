@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>My first website test</title>
+    <link href="https://lin-meili.github.io/test-pub/feed.xml" rel="self" />
+    <link href="https://lin-meili.github.io/test-pub" />
+    <updated>2024-11-02T13:37:47+08:00</updated>
+    <author>
+        <name>C-U-Der</name>
+    </author>
+    <id>https://lin-meili.github.io/test-pub</id>
+
+    <entry>
+        <title>This is my first post!</title>
+        <author>
+            <name>C-U-Der</name>
+        </author>
+        <link href="https://lin-meili.github.io/test-pub/this-is-my-first-post.html"/>
+        <id>https://lin-meili.github.io/test-pub/this-is-my-first-post.html</id>
+
+        <updated>2024-11-02T13:37:47+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello, world!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello, world!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
